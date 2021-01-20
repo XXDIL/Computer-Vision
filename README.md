@@ -5,5 +5,7 @@
 ------
 
 ### INDEX:
-1) #### [Tutorial1]() - WIP
-2) #### [Interpolation](https://github.com/XXDIL/Computer-Vision/tree/main/tut2)
+
+#### 1) [Tutorial1]() - WIP
+
+#### 2) [Interpolation](https://github.com/XXDIL/Computer-Vision/tree/main/tut2)
