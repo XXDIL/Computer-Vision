@@ -33,12 +33,13 @@ channel for the above image (used in q1).
 
 ### 3) [B-spline](https://github.com/XXDIL/Computer-Vision/tree/main/B-spline)
 
-> Numerical : 
+> Numerical : <br/>
   Find the value of f(2.5) using:<br/>
-      a) 0-degree B-spline function<br/>
-      b) 1-degree B-spline function<br/>
-      c) 2-degree B-spline function<br/>
-  given -> f(0) = 2, f(1) = 3, f(2) = 4, f(3) = 2, f(4) = 5.
+  >> a) 0-degree B-spline function<br/>
+  >> b) 1-degree B-spline function<br/>
+  >> c) 2-degree B-spline function<br/>
+  
+  > given -> f(0) = 2, f(1) = 3, f(2) = 4, f(3) = 2, f(4) = 5.
 
 > Practical : 
    Given in the pdf attached in the B-spline folder.
