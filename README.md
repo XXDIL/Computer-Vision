@@ -50,4 +50,19 @@ channel for the above image (used in q1).
 
 ### 5) [Canny-Edge-Detection](https://github.com/XXDIL/Computer-Vision/tree/main/Canny)
 
+> Explain the 5 steps on canny edge detection:<br/>
+  >> 1) Noise reduction<br/>
+  >> 2) Gradient calculation<br/>
+  >> 3) Non-maximum suppression<br/>
+  >> 4) Double threshold<br/>
+  >> 5) Edge Tracking by Hysteresis
+
 ### 6) [Video Summarization](https://github.com/XXDIL/Computer-Vision/tree/main/Video-Summary)
+
+> There are many algorithms that exists for video summarization. You are not restricted here to use any specific one (means free to use keyframe extraction, uniform sampling, image histogram, SIFT etc).
+
+> What you are required to do is:<br/>
+  a) Take any video of not more than 1 min and give the result video as per the important keyframes required.<br/>
+  b) Files to be uploaded should include program file(.ipynb) video to summarize and summarized video.<br/>
+  c) All files should be zipped and name with your roll no.<br/>
+  d) If any other information is required to execute the code, in that case, include readme file as well.
