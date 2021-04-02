@@ -66,3 +66,7 @@ channel for the above image (used in q1).
   b) Files to be uploaded should include program file(.ipynb) video to summarize and summarized video.<br/>
   c) All files should be zipped and name with your roll no.<br/>
   d) If any other information is required to execute the code, in that case, include readme file as well.
+
+### 7) [Camera Calibration](https://github.com/XXDIL/Computer-Vision/tree/main/Camera-Calibration)
+
+> Here we learn about the basics of different corodinate systems and an insight in Homogeneous coordinates.
