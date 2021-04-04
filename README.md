@@ -70,3 +70,7 @@ channel for the above image (used in q1).
 ### 7) [Camera Calibration](https://github.com/XXDIL/Computer-Vision/tree/main/Camera-Calibration)
 
 > Here we learn about the basics of different corodinate systems and an insight in Homogeneous coordinates.
+
+### 8) [Corner Detection](https://github.com/XXDIL/Computer-Vision/tree/main/Harris)
+
+> Implementing the Harris Corner Detection ALgorithm from scratch. [Harris](https://en.wikipedia.org/wiki/Harris_Corner_Detector)
