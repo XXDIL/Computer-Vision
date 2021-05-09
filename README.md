@@ -72,3 +72,16 @@ given -> f(0) = 2, f(1) = 3, f(2) = 4, f(3) = 2, f(4) = 5.
 ### 8) [Corner Detection](https://github.com/XXDIL/Computer-Vision/tree/main/Harris)
 
 1. Implementing the Harris Corner Detection ALgorithm from scratch. [Harris](https://en.wikipedia.org/wiki/Harris_Corner_Detector)
+
+### 9) [Dataset Creation](https://github.com/XXDIL/Computer-Vision/tree/main/Dataset)
+
+1. We were told to create a dataset of 10 objects, the images had to be our own.
+
+### 10) [Classification on CIFAR-10](https://github.com/XXDIL/Computer-Vision/tree/main/CIFAR-10)
+
+1. Implementing a model to classify between the 10 classes of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+2. I went a little overboard with this, in using 4 different models.
+
+### 11) [Epipolar Geometry](https://github.com/XXDIL/Computer-Vision/tree/main/Epipolar-Geometry)
+
+1. Just a few numericals on Epipolar Geometry
