@@ -79,9 +79,27 @@ given -> f(0) = 2, f(1) = 3, f(2) = 4, f(3) = 2, f(4) = 5.
 
 ### 10) [Classification on CIFAR-10](https://github.com/XXDIL/Computer-Vision/tree/main/CIFAR-10)
 
-1. Implementing a model to classify between the 10 classes of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
-2. I went a little overboard with this, in using 4 different models.
+- Implementing a model to classify between the 10 classes of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+- Use CIFAR-10 Data set to run Nearest Neighbor Algorithm and check its performance
+- I went a little overboard with this, in using 4 different models.
+
 
 ### 11) [Epipolar Geometry](https://github.com/XXDIL/Computer-Vision/tree/main/Epipolar-Geometry)
 
-1. Just a few numericals on Epipolar Geometry
+1. Find out z-coordinate value of a point in word coordinate system which imaged at point  (2,2) in image plane of camera one and imaged at point  (1,1) in image plane of camera two. 
+  > Camera1 : camera constant = -2, coordinate and world coordinate are aligned (origins coincide and x, y, z axis of camera coordinate and world coordinate are parallel).
+    
+  > Camera2 : camera constant = -2, axis of camera coordinate system is parallel to axis of world coordinate system but origin of camera coordinate system shifted to point with world coordinate (3,3,0)
+
+2. Describe following terms : [Reference](https://www.youtube.com/watch?v=vNG0uJR48XE)
+- Epipolar axis
+- Epipolar line
+- Epipole
+- Epipolar plane
+- fundamental matrix
+- Projection matrix
+- Calibrated camera
+- Uncalibrated camera
+- Intrinsic parameter
+- Extrinsic parameter
+
